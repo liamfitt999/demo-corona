@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "updated_at": "2020-04-24T16:24:27.242Z",
+      "date": "2020-04-24",
+      "deaths": 193851,
+      "confirmed": 2759409,
+      "recovered": 764188,
+      "active": 1801370,
+      "new_confirmed": 52374,
+      "new_recovered": 26541,
+      "new_deaths": 3029,
+      "is_in_progress": true
+    },
+    {
+      "updated_at": "2020-04-23T08:58:50.000Z",
+      "date": "2020-04-23",
+      "deaths": 190822,
+      "confirmed": 2707035,
+      "recovered": 737647,
+      "new_confirmed": 85448,
+      "new_recovered": 28768,
+      "new_deaths": 7831,
+      "active": 1778566
+    }
+  ],
+  "_cacheHit": true
+}
